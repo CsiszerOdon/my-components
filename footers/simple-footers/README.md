@@ -1,0 +1,1 @@
+egy egyszeru footer az elsok kozul.
